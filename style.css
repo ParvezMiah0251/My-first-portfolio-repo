@@ -48,6 +48,29 @@ h1 {
     padding-right: 200px;
 }
 
-.padding-left {
-    padding-left: 100px;
+.experience-area {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.experience-item {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+#Full-Stack-Developer {
+    border-left: 7px solid tomato;
+}
+
+#Baby-Web-Developer {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
